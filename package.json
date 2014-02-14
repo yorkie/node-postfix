@@ -1,7 +1,7 @@
 {
   "name": "postfix",
   "version": "0.0.1",
-  "description": "fetch postfix in email address for nodejs",
+  "description": "postfix parser in email address for nodejs",
   "main": "index.js",
   "directories": {
     "test": "test"
